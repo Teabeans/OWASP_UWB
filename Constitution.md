@@ -15,20 +15,20 @@ application security visible, so that people and organizations can make informed
 The OWASP-UWB Chapter exists to raise awareness of the OWASP mission within the University of Washington Bothell (UWB).
 
 ## ARTICLE III: Membership:
-Eligibility:
+#### Eligibility:
 
-Code of Conduct:
+#### Code of Conduct:
 1. Item 1
    * Subitem 1
    * Subitem 2
 2. Item 2
 
-Rights and privileges:
+#### Rights and privileges:
 
 
 ## ARTICLE IV: Meeting
-	A:  State how many and when meetings of the membership will be held during the year.
-	B:  State procedures for calling regular and/or special meetings.
+A:  State how many and when meetings of the membership will be held during the year.
+B:  State procedures for calling regular and/or special meetings.
 
 ## ARTICLE V: Executive Board
 A:  State the club officers and each of their duties 
