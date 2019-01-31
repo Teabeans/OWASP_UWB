@@ -8,18 +8,10 @@ Open Web Application Security Project, University of Washington Bothell Chapter
 ## ARTICLE II: Mission Statement
 The Open Web Application Security Project (OWASP) is a 501c3 not-for-profit worldwide charitable
 organization focused on improving the security of application software. Our mission is to make
-application security visible, so that people and organizations can make informed decisions about
-true application security risks. Everyone is free to participate in OWASP and all of our materials are
-available under a free and open software license
+application security visible, so that people and organizations can make informed decisions in this regard.
 
-OWASP Chapters exist to raise awareness of the OWASP mission, making application security
-visible, at the local level. The OWASP Foundation encourages anyone with an interest in furthering
-the OWASP mission at the local level to either get involved in their local OWASP chapter, or if
-one doesn’t exist, start a new OWASP chapter. Local chapter outreach is one of the most significant
-ways that individuals learn about the organization and become connected to the OWASP community.
-Therefore, enabling local chapter leaders and volunteers to not only hold meetings, but also contribute
-to projects, organize training and events, and find new ways to evangelize about application security in
-their city or region becomes a key to the success and growth of the much larger global organization.
+
+The OWASP-UWB Chapter exists to raise awareness of the OWASP mission within the University of Washington Bothell (UWB).
 
 ## ARTICLE III: Membership:
 Eligibility:
