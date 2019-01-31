@@ -1,5 +1,6 @@
 # OWASP-UWB CONSTITUTION
 (Not yet ratified) 2019.01.31
+https://www.owasp.org/images/d/dc/OWASP_Chapter_Handbook_Ch_V2.pdf
 
 ## ARTICLE I: Name
 Open Web Application Security Project, University of Washington Bothell Chapter
@@ -15,10 +16,15 @@ The OWASP-UWB Chapter exists to raise awareness of the OWASP mission within the 
 
 ## ARTICLE III: Membership:
 Eligibility:
+
 Code of Conduct:
-..* Item 1
-..* Item 2
+1. Item 1
+..* Subitem 1
+..* Subitem 2
+2. Item 2
+
 Rights and privileges:
+
 
 ## ARTICLE IV: Meeting
 	A:  State how many and when meetings of the membership will be held during the year.
