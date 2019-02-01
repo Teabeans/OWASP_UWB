@@ -28,8 +28,8 @@ Each of us is expected to behave according to the principles contained in the fo
    * To communicate openly and honestly;
    * Refrain from any activities which might constitute a conflict of interest or otherwise damage the reputation of employers, the information security profession, or the Association;
    * To maintain and affirm our objectivity and independence;
-  * To reject inappropriate pressure from industry or others;
-   *Not intentionally injure or impugn the professional reputation of practice of colleagues, clients, or employers;
+   * To reject inappropriate pressure from industry or others;
+   * Not intentionally injure or impugn the professional reputation of practice of colleagues, clients, or employers;
    * Treat everyone with respect and dignity; and
    * To avoid relationships that impair — or may appear to impair — OWASP's objectivity and independence.
 
