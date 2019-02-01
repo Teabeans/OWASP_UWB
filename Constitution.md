@@ -11,8 +11,15 @@ The Open Web Application Security Project (OWASP) is a 501c3 not-for-profit worl
 organization focused on improving the security of application software. Our mission is to make
 application security visible, so that people and organizations can make informed decisions in this regard.
 
-
 The OWASP-UWB Chapter exists to raise awareness of the OWASP mission within the University of Washington Bothell (UWB).
+
+OWASP is guided by the following principles:
+   * Free & Open
+   * Governed by rough consensus & running code
+   * Abide by a code of ethics (see ethics)
+   * Not-for-profit
+   * Not driven by commercial interests
+   * Risk-based approach
 
 ## ARTICLE III: Membership:
 #### Eligibility:
